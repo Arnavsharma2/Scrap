@@ -1,2 +1,2 @@
 # Scrap
-Random, maybe useless, projects
+Random projects
